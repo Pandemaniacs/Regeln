@@ -36,5 +36,5 @@ menu:
 #  - authors.html
 extra: null
 authors: {}
-toc: false
+toc: true
 json_feed: true
