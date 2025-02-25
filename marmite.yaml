@@ -26,10 +26,10 @@ banner_image: ''
 logo_image: ''
 default_date_format: '%b %e, %Y'
 menu:
-- - Regeln
-  - pages.html
 - - Neuigkeiten
   - index.html
+- - Regeln
+  - pages.html
 #- - Tags
 #  - tags.html
 #- - Archive
