@@ -1,0 +1,24 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Pandemaniacs",
+  "home_page_url": "https://pandemaniacs.github.io",
+  "feed_url": "https://pandemaniacs.github.io/tag-allgemein.json",
+  "description": "Pandemaniacs Regeln und Neuigkeiten",
+  "items": [
+    {
+      "id": "https://pandemaniacs.github.io/regeln-allgemein.html",
+      "url": "https://pandemaniacs.github.io/regeln-allgemein.html",
+      "title": "Allgemeine Regeln",
+      "content_html": "<!-- Content Injected to every content markdown header -->\n<ul>\n<li>Kein Cheaten oder Exploiting</li>\n<li>Kein Beleidigen oder Belästigung anderer Spieler</li>\n<li>Keine rassistischen, sexistischen oder anderweitig diskriminierenden Bemerkungen</li>\n<li>Keine Drohungen oder Gewaltandrohungen</li>\n<li>Keine Werbung für andere Server oder Communities</li>\n<li>Höre auf die Anweisungen der Server-Team Mitglieder</li>\n<li>Keine Verwendung von unangemessenen Namen oder Avataren</li>\n<li>Keine Verwendung von unangemessenen Sprache oder Emojis in Chat oder Sprachkanälen, ausgenommen ist NSFW im als NSWF Markierten Channel.</li>\n<li>Keine Verwendung von Skins, Resourcepacks oder Modifikationen, die einen Vorteil im Spiel verschaffen</li>\n<li>Jeder Verstoß gegen diese Regeln kann zum Ausschluss von dem Server führen.</li>\n</ul>\n<p>Diese regeln gelten für sowohl Discord als auch für unsere spiele server. Es können jedoch auch weitere Regeln zutreffen für die jeweiligen Spiele Server welche in-game erläutert werden.</p>\n<!-- Content Injected to every content markdown footer -->\n",
+      "summary": "",
+      "date_published": "2025-02-25T00:00:00-00:00",
+      "image": "",
+      "authors": [],
+      "tags": [
+        "regeln",
+        "allgemein"
+      ],
+      "language": "de"
+    }
+  ]
+}
