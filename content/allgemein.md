@@ -1,6 +1,8 @@
 ---
 tags: regeln,allgemein
 stream: regeln
+date: 2023-01-22
+lastmod: 2025-02-25
 ---
 # Allgemeine Regeln
 
