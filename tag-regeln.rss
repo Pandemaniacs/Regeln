@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Pandemaniacs</title><link>https://pandemaniacs.github.io</link><description>Pandemaniacs Regeln und Neuigkeiten</description><pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate><lastBuildDate>Tue, 25 Feb 2025 07:04:10 GMT</lastBuildDate><generator>marmite</generator><item><title>Allgemeine Regeln</title><link>https://pandemaniacs.github.io/regeln-allgemein.html</link><category>regeln</category><category>allgemein</category><guid>https://pandemaniacs.github.io/regeln-allgemein.html</guid><pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate><source url="https://pandemaniacs.github.io">tag-regeln</source><content:encoded><![CDATA[<!-- Content Injected to every content markdown header -->
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Pandemaniacs</title><link>https://pandemaniacs.github.io</link><description>Pandemaniacs Regeln und Neuigkeiten</description><pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate><lastBuildDate>Tue, 25 Feb 2025 07:54:18 GMT</lastBuildDate><generator>marmite</generator><item><title>TTT-Server-Regeln</title><link>https://pandemaniacs.github.io/regeln-trouble-interrorist-town.html</link><category>regeln</category><category>ttt</category><guid>https://pandemaniacs.github.io/regeln-trouble-interrorist-town.html</guid><pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate><source url="https://pandemaniacs.github.io">tag-regeln</source><content:encoded><![CDATA[<!-- Content Injected to every content markdown header -->
+<h2><a href="#1-geltungsbereich" aria-hidden="true" class="anchor" id="1-geltungsbereich"></a>1. Geltungsbereich</h2>
+<ul>
+<li>Diese Regeln gelten ausschließlich für unseren TTT2-Server.</li>
+<li>Die allgemeinen Community-Grundregeln sind jederzeit gültig.</li>
+</ul>
+<h2><a href="#2-fair-play-und-spielspaß" aria-hidden="true" class="anchor" id="2-fair-play-und-spielspaß"></a>2. Fair Play und Spielspaß</h2>
+<ul>
+<li><strong>Faires Spiel:</strong> Unser Ziel ist es, dass alle Spieler Spaß haben. Ein faires Miteinander ist hierfür essenziell.</li>
+<li><strong>Keine unbegründeten Angriffe:</strong> Es ist nicht gestattet, andere Spieler ohne nachvollziehbaren Grund anzugreifen oder zu töten.</li>
+<li><strong>Cheating und Exploiting:</strong> Jegliche Form von Cheating, Exploiting oder Ausnutzen von Bugs führt zu sofortigen Sanktionen – bis hin zum Bann.</li>
+</ul>
+<h2><a href="#3-rdm-random-deathmatch" aria-hidden="true" class="anchor" id="3-rdm-random-deathmatch"></a>3. RDM (Random Deathmatch)</h2>
+<ul>
+<li><strong>Definition:</strong> RDM bezeichnet das willkürliche Töten anderer Spieler ohne nachvollziehbaren Anlass.</li>
+<li><strong>Regel:</strong> Tötungen müssen auf einem begründeten Verdacht oder einer konkreten Situation beruhen. Unbegründetes RDM wird nicht toleriert.</li>
+</ul>
+<h2><a href="#4-team-killing-tk" aria-hidden="true" class="anchor" id="4-team-killing-tk"></a>4. Team Killing (TK)</h2>
+<ul>
+<li>Das absichtliche Töten von Teamkollegen oder das wiederholte, unbedachte Angreifen anderer Spieler ist untersagt.</li>
+<li>Auch wenn TTT2 nicht als „ernsthaftes Rollenspiel“ gedacht ist, führt TK zu Frust und mindert den Spielspaß. Bei Unfällen ist das Moderationsteam umgehend zu informieren.</li>
+</ul>
+<h2><a href="#5-meta-gaming-und-informationsmissbrauch" aria-hidden="true" class="anchor" id="5-meta-gaming-und-informationsmissbrauch"></a>5. Meta-Gaming und Informationsmissbrauch</h2>
+<ul>
+<li><strong>Meta-Gaming:</strong> Die Nutzung von Informationen, die außerhalb des Spiels (OOC) gewonnen wurden, um In-Game-Entscheidungen zu beeinflussen, ist strengstens untersagt.</li>
+<li><strong>Informationsaustausch:</strong> Verdachtsmomente und relevante In-Game-Informationen dürfen ausschließlich über den vorgesehenen In-Game-Voice-Chat kommuniziert werden.</li>
+</ul>
+<h2><a href="#6-rollenspezifische-besonderheiten-im-ttt2-modus" aria-hidden="true" class="anchor" id="6-rollenspezifische-besonderheiten-im-ttt2-modus"></a>6. Rollenspezifische Besonderheiten im TTT2-Modus</h2>
+<ul>
+<li><strong>Vielfalt der Rollen:</strong> Da wir den TTT2-Spielmodus verwenden, gibt es mehr Rollen als nur Traitor und Detective.
+<ul>
+<li>Einige Rollen erlauben es, alle anderen Spieler zu töten, während andere dazu verpflichtet sind, alle anderen zu töten.</li>
+<li>Die genauen Aufgaben, Ziele und Besonderheiten der jeweiligen Rollen werden in-game erklärt, sobald sie zugewiesen werden.</li>
+</ul>
+</li>
+<li><strong>Verhalten:</strong> Unabhängig von der zugewiesenen Rolle ist es nicht erlaubt, andere Spieler ohne nachvollziehbaren In-Game-Grund anzugreifen.</li>
+</ul>
+<h2><a href="#7-kommunikation-außerhalb-des-in-game-voice-chats" aria-hidden="true" class="anchor" id="7-kommunikation-außerhalb-des-in-game-voice-chats"></a>7. Kommunikation außerhalb des In-Game-Voice-Chats</h2>
+<ul>
+<li>Falls Spieler während des Spiels über Discord oder andere Voice-Chats kommunizieren, ist es strengstens untersagt, Informationen weiterzugeben, die das Spielgeschehen beeinflussen können – insbesondere an Spieler, die noch aktiv im Spiel sind.</li>
+<li>Idealerweise sollte während eines laufenden Spiels im externen Voice-Chat gar nicht über In-Game-relevante Informationen gesprochen werden.</li>
+</ul>
+<blockquote>
+<p>Verständlicherweise ist der Discord Voice-Chat über unseren Discord Server praktischer und ebenfalls erlaubt für TTT, jedoch sollte es bevorzugt werden, In-Game zu sprechen.
+Anfangs war die Voice-Chat Qualität von Garrys Mod nicht so gut, wodurch es nötig war über Discord zu reden, mittlerweile ist das Problem jedoch behoben und der In-Game Voice Chat ist nutzbar. Bitte stellt eure Mikrofoneinstellung ordentlich in Steam ein und nutzt Push-To-Talk wenn möglich. Das Verwenden von In-Game Voice-Chat macht es unmöglich, aus Versehen Informationen an Lebende bzw. Aktive Spieler weiterzugeben.</p>
+</blockquote>
+<h2><a href="#8-reporting-und-sanktionen" aria-hidden="true" class="anchor" id="8-reporting-und-sanktionen"></a>8. Reporting und Sanktionen</h2>
+<ul>
+<li><strong>Melde-System:</strong> Verstöße gegen diese Regeln können über das vorgesehene Reporting-System an das Moderationsteam gemeldet werden.</li>
+<li><strong>Konsequenzen:</strong> Bei Verstößen kann das Moderationsteam Verwarnungen, temporäre Maßnahmen (z. B. Mute, Kick oder temporärer Bann) oder im Wiederholungsfall einen dauerhaften Ausschluss verhängen. Alle Maßnahmen werden nachvollziehbar dokumentiert.</li>
+</ul>
+<hr />
+<p>Mit dem Betreten und Spielen auf unserem TTT2-Server erklärst du dich mit diesen Regeln einverstanden. Unser Ziel ist es, einen fairen und spaßigen Spielraum zu schaffen, in dem jeder die Möglichkeit hat, das Spiel in vollen Zügen zu genießen.</p>
+<!-- Content Injected to every content markdown footer -->
+]]></content:encoded></item><item><title>Allgemeine Regeln</title><link>https://pandemaniacs.github.io/regeln-allgemein.html</link><category>regeln</category><category>allgemein</category><guid>https://pandemaniacs.github.io/regeln-allgemein.html</guid><pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate><source url="https://pandemaniacs.github.io">tag-regeln</source><content:encoded><![CDATA[<!-- Content Injected to every content markdown header -->
 <ul>
 <li>Kein Cheaten oder Exploiting</li>
 <li>Kein Beleidigen oder Belästigung anderer Spieler</li>
