@@ -3,6 +3,7 @@ tags: regeln,allgemein
 stream: regeln
 date: 2023-01-22
 lastmod: 2025-02-25
+summary: Allgemeine Community regeln die überall gelten.
 ---
 # Allgemeine Regeln
 
