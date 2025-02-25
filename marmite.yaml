@@ -4,7 +4,7 @@ url: 'https://pandemaniacs.github.io'
 footer: <div>Powered by <a href="https://github.com/rochacbruno/marmite">Marmite</a></div>
 language: 'de'
 pagination: 10
-pages_title: Regeln
+pages_title: ''
 tags_title: Tags
 tags_content_title: Posts tagged with '$tag'
 archives_title: Archive
