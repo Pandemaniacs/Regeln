@@ -1,3 +1,6 @@
+---
+tags: regeln,allgemein
+---
 # Allgemeine Regeln
 
 - Kein Cheaten oder Exploiting
