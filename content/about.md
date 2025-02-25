@@ -1,3 +1,3 @@
 # Über Pandemaniacs
 
-TODO
+Wir verwenden [marmite] für diese statische seite.

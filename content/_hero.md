@@ -1,5 +1,3 @@
-##### Welcome to Marmite
+##### Willkommen bei den Pandemaniacs Regeln und Neuigkeiten.
 
-Marmite is a static site generator written in Rust.
-edit `content/_hero.md` to change this content.
-remove the file to disable the hero section.
+Hier könnt ihr die aktuellen Regeln sowie neuigkeiten einsehen.

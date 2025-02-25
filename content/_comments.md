@@ -1,12 +1,10 @@
-##### Comments
-**edit `content/_comments.md` to adjust for your own site/repo**
-
-**remove** the file to disable comments
-
-<script src='https://utteranc.es/client.js'
-repo='rochacbruno/issue-bin'
-issue-term='pathname'
-theme='preferred-color-scheme'
-crossorigin='anonymous'
-async>
+##### Kommentare
+<!-- Vielleicht nehmen wir das hier raus, mal sehen -->
+<script src="https://utteranc.es/client.js"
+        repo="Pandemaniacs/Regeln"
+        issue-term="pathname"
+        label="Kommentar"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
 </script>
