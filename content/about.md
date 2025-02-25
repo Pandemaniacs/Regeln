@@ -1,4 +1,3 @@
-# About
+# Über Pandemaniacs
 
-Hi, edit `about.md` to change this content.
-        
+TODO
