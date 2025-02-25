@@ -27,7 +27,7 @@ logo_image: ''
 default_date_format: '%b %e, %Y'
 menu:
 - - Regeln
-  - pages.html
+  - regeln.html
 #- - Tags
 #  - tags.html
 #- - Archive

@@ -1,5 +1,6 @@
 ---
 tags: regeln,allgemein
+stream: regeln
 ---
 # Allgemeine Regeln
 
