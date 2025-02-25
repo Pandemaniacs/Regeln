@@ -1,8 +1,8 @@
-name: Pandemaniacs Regeln und Neuigkeiten
+name: Pandemaniacs
 tagline: 'Pandemaniacs Regeln und Neuigkeiten'
 url: 'https://pandemaniacs.github.io'
 footer: <div>Powered by <a href="https://github.com/rochacbruno/marmite">Marmite</a></div>
-language: ''
+language: 'de'
 pagination: 10
 pages_title: Regeln
 tags_title: Tags
