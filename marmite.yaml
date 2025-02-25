@@ -1,10 +1,10 @@
 name: Pandemaniacs Regeln und Neuigkeiten
-tagline: ''
+tagline: 'Pandemaniacs Regeln und Neuigkeiten'
 url: ''
 footer: <div>Powered by <a href="https://github.com/rochacbruno/marmite">Marmite</a> | <small><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY_NC-SA</a></small></div>
 language: ''
 pagination: 10
-pages_title: Pages
+pages_title: Regeln
 tags_title: Tags
 tags_content_title: Posts tagged with '$tag'
 archives_title: Archive
@@ -26,12 +26,14 @@ banner_image: ''
 logo_image: ''
 default_date_format: '%b %e, %Y'
 menu:
-- - Tags
-  - tags.html
-- - Archive
-  - archive.html
-- - Authors
-  - authors.html
+- - Regeln
+  - pages.html
+#- - Tags
+#  - tags.html
+#- - Archive
+#  - archive.html
+#- - Authors
+#  - authors.html
 extra: null
 authors: {}
 toc: false
