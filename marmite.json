@@ -1,10 +1,10 @@
 {
   "marmite_version": "0.2.5",
-  "posts": 2,
+  "posts": 3,
   "pages": 1,
-  "generated_at": "2025-02-25 07:54:18.059466125 +00:00",
-  "timestamp": 1740470058,
-  "elapsed_time": 0.02448733,
+  "generated_at": "2025-02-26 21:29:19.001191044 +00:00",
+  "timestamp": 1740605359,
+  "elapsed_time": 0.028468691,
   "config": {
     "name": "Pandemaniacs",
     "tagline": "Pandemaniacs Regeln und Neuigkeiten",
