@@ -1,7 +1,7 @@
 ---
 tags: discord
 ---
-# Discord Änderungen
+# Neuer Vorschläge Kanal
 
 Auf dem discord haben wir nun ein neues forum für Vorschläge (#vorschläge) erstellt wo ihr Vorschläge zu z.b. Spielen geben könnt die wir spielen oder Hosten können.
 
