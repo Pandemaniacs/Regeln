@@ -2,10 +2,22 @@
 tags: regeln,ttt
 stream: regeln
 date: 2025-02-25
-lastmod: 2025-02-25
+lastmod: 2025-07-21
 summary: TTT Regeln
 ---
-# TTT-Server-Regeln
+# TTT-Server-Regeln und Datenschutz
+
+## Datenschutz
+
+Zur Unterstützung der Moderation und zum Schutz aller Spieler werden Text- und Audioinhalte auf diesem Server gespeichert. Diese Daten können bis zu 90 Tage aufbewahrt werden und dienen ausschließlich moderativen Zwecken.
+
+Jede Spielrunde wird zusätzlich automatisch als Demo aufgezeichnet. Diese Aufzeichnungen dienen als Beweismittel bei Streitfällen, Regelverstößen oder ähnlichen Vorfällen insbesondere dann, wenn zum Zeitpunkt des Geschehens kein Server-Team-Mitglied anwesend war.
+
+Textnachrichten, wie z. B. im Ingame-Chat oder in Reports, können automatisch durch einen lokalen Moderationsalgorithmus analysiert werden. Dieser dient der frühzeitigen Erkennung von problematischem Verhalten (z. B. Beleidigungen oder diskriminierenden Inhalten) und unterstützt das Server-Team bei der Einschätzung von Meldungen. Es findet keine Übertragung an externe Dienste statt, die Verarbeitung erfolgt ausschließlich auf dem Server selbst.
+
+Der Zugriff auf die gespeicherten Demos und sonstigen Daten ist ausschließlich den Serverbesitzern vorbehalten. Eine Auswertung erfolgt nur bei konkreten Meldungen oder begründetem Verdacht auf einen Regelverstoß.
+
+Der Schutz der Privatsphäre unserer Spieler hat für uns oberste Priorität. Eine Weitergabe der Daten an Dritte erfolgt nicht.
 
 ## 1. Geltungsbereich
 - Diese Regeln gelten ausschließlich für unseren TTT2-Server.
